@@ -1,3 +1,4 @@
+#Automated testing in C# for a e-commerce website using NUnit, Selenium Web Driver and Page Object Model.
 
 1. In the console open this path TestProjectSDET\TestProjectSDET\
 2. Type the following command: dotnet test
@@ -14,8 +15,6 @@ Test4 Purchase Succesfully
 
 For more information please find the files .feature, every case have been described in Gherkin syntax.
 
-
-More cases has been described in the Test_Plan_SDET document.  
 
 
 Important: In every test you can select the user and password (by commenting the code) in order to evaluate the funcionality for every type of user.
