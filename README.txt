@@ -1,4 +1,3 @@
-#Automated testing in C# for a e-commerce website using NUnit, Selenium Web Driver and Page Object Model.
 
 1. In the console open this path TestProjectSDET\TestProjectSDET\
 2. Type the following command: dotnet test
